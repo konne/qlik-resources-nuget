@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "qlik-resources-nuget", "qlik-resources-nuget\qlik-resources-nuget.csproj", "{5D433112-EE37-40B2-8848-960D113AE2BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "qlik-resources-generator", "qlik-resources-generator\qlik-resources-generator.csproj", "{BFA7128E-CE91-41D8-9173-F0B72CE68651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D433112-EE37-40B2-8848-960D113AE2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D433112-EE37-40B2-8848-960D113AE2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D433112-EE37-40B2-8848-960D113AE2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D433112-EE37-40B2-8848-960D113AE2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA7128E-CE91-41D8-9173-F0B72CE68651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA7128E-CE91-41D8-9173-F0B72CE68651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA7128E-CE91-41D8-9173-F0B72CE68651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA7128E-CE91-41D8-9173-F0B72CE68651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7B05AF4-B00E-4DE8-A913-2E8AED72B71F}
+	EndGlobalSection
+EndGlobal

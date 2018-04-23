@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp2.0;net452</TargetFrameworks>    
+    <RootNamespace>Qlik.Resources</RootNamespace>
+    <AssemblyName>qlik-resources</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Konrad Mattheis</Authors>
+    <Company>q2g</Company>
+    <Version>4.86.8</Version>        
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="**\*.ttf;" />
+  </ItemGroup>
+
+</Project>
