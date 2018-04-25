@@ -7,11 +7,11 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Konrad Mattheis</Authors>
     <Company>q2g</Company>
-    <Version>4.86.8</Version>        
+    <Version>4.86.9</Version>        
   </PropertyGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="**\*.ttf;" />
+    <Resource Include="**\*.ttf;" />
   </ItemGroup>
 
 </Project>
